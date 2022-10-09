@@ -1,2 +1,1 @@
-# sorting_algorithms
-Third repository for ALX group project
+ALX GROUP PROJECT FOR SORTING_ALGORITHMS
