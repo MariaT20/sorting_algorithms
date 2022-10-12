@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
- * swap - swaps both
+ * swapl - swaps both
  * @p: first node to swap
  * @c: second node to swap
  * @list: list to set null or not
